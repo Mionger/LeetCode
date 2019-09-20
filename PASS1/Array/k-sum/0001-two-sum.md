@@ -1,6 +1,7 @@
 # 0001.two-sum
 
-## 题目信息
+## 题目信息  
+Problem:[two-sum](https://leetcode.com/problems/two-sum/)  
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.  
 You may assume that each input would have exactly one solution, and you may not use the same element twice.  
 Example:  
@@ -36,3 +37,6 @@ class Solution:
 Time Complexity:O(n)  
 Space Complexity:O(n)  
 时间复杂度方面beats 96.65%，且处于第一个波峰附近，应该是比较好的解法了  
+
+## 其他  
+1. 关于字典查询，in dict被用来查询某个键是否在字典中，而in dict.values()被用来查询某个值是否在字典中，但是注意字典的键不可以重复，值可以重复
