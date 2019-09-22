@@ -20,3 +20,9 @@ leetcode第一题就是two-sum，对于这类题目，首先看题目要求的�
 |15|[3-sum](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/k-sum/0015-3-sum.md)|medium|
 |16|[3-sum-closest](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/k-sum/0016-3-sum-closest.md)|medium|
 |18|[4-sum](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/k-sum/0018-4-sum.md)|medium|
+
+### SECTION
+#### 题目列表
+|index|name|difficulty|
+|:-----|:---:|:-----:|
+|56|[merge-intervals](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0056-merge-intervals.md)|medium|
