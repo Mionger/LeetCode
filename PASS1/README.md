@@ -26,3 +26,4 @@ leetcode第一题就是two-sum，对于这类题目，首先看题目要求的�
 |index|name|difficulty|
 |:-----|:---:|:-----:|
 |56|[merge-intervals](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0056-merge-intervals.md)|medium|
+|57|[insert-interval](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0057-insert-interval.md)|hard|
