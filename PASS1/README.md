@@ -6,12 +6,12 @@
 ### K-SUM
 #### 题型总结  
 这类题目通常会给定一个数组和一个值，让求出这个数组中两个/三个/K个值的和等于这个给定的值target  
-leetcode第一题就是two-sum，对于这类题目，首先看题目要求的时间复杂度和空间复杂度是什么，其次看有没有限制条件，如要求不能有重复的子数组或者要求按照升序/降序排列等。  
-解法如下：  
+leetcode第一题two-sum就是这类问题，对于这类题目，首先看题目要求的时间复杂度和空间复杂度是什么，其次看有没有限制条件，如要求不能有重复的子数组或者要求按照升序/降序排列等。  
+常见解法：  
 1. 暴力解法：最常见，但是通常会超时，只能作为备选    
 2. hash-map：建立一个hash-map循环遍历一次即可  
 3. two-pointers：定位两个指针根据和的大小来移动另外一个，这里设定的指针个数根据题目中K的个数来定，3Sum中可以设定3个指针，固定两个，移动另一个  
-
+4. 优化搜索方式（如从依次遍历优化为二分查找等）往往会有比较大的性能提升
 #### 题目列表  
 |index|name|difficulty|
 |:-----|:---:|:-----:|
@@ -22,8 +22,16 @@ leetcode第一题就是two-sum，对于这类题目，首先看题目要求的�
 |18|[4-sum](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/k-sum/0018-4-sum.md)|medium|
 
 ### SECTION
+#### 题型总结
+数组类型常见的题型之一，这类题目通常会给定一个区间的列表，然后判断之间的交叉关系，判断是否是无交叉区间或者简化成无交叉区间的形式  
+这类题目往往还有比较实际的意义，比如说可以用于安排日程时间等等，可以被包装成很多种情形，注意化归成最原始的模型  
+常见解法：  
+1. 对列表按照区间首元素等排序处理  
+2. 在相邻区间的尾元素和首元素之间判断临界条件  
+3. 可以通过优化搜索方式进行性能提升  
 #### 题目列表
 |index|name|difficulty|
 |:-----|:---:|:-----:|
 |56|[merge-intervals](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0056-merge-intervals.md)|medium|
 |57|[insert-interval](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0057-insert-interval.md)|hard|
+|352|[data-stream-as-disjoint-intervals](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0352-data-stream-as-disjoint-intervals.md)|hard|
