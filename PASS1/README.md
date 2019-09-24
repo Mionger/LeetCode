@@ -35,3 +35,9 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |56|[merge-intervals](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0056-merge-intervals.md)|medium|
 |57|[insert-interval](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0057-insert-interval.md)|hard|
 |352|[data-stream-as-disjoint-intervals](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0352-data-stream-as-disjoint-intervals.md)|hard|
+
+### SUB-ARRAY
+#### 题目列表
+|index|name|difficulty|
+|:-----|:---:|:-----:|
+|485|[max-consecutive-ones](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0485-max-consecutive-ones.md)|easy|
