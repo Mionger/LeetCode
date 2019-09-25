@@ -14,7 +14,7 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 4. 优化搜索方式（如从依次遍历优化为二分查找等）往往会有比较大的性能提升
 #### 题目列表  
 |index|name|difficulty|
-|:-----|:---:|:-----:|
+|:--:|:--:|:--:|
 |1|[two-sum](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/k-sum/0001-two-sum.md)|easy|
 |167|[two-sum-ii-input-array-is-sorted](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/k-sum/0167-two-sum-ii-input-array-is-sorted.md)|easy|
 |15|[3-sum](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/k-sum/0015-3-sum.md)|medium|
@@ -31,7 +31,7 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 3. 可以通过优化搜索方式进行性能提升  
 #### 题目列表
 |index|name|difficulty|
-|:-----|:---:|:-----:|
+|:--:|:--:|:--:|
 |56|[merge-intervals](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0056-merge-intervals.md)|medium|
 |57|[insert-interval](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0057-insert-interval.md)|hard|
 |352|[data-stream-as-disjoint-intervals](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/section/0352-data-stream-as-disjoint-intervals.md)|hard|
@@ -39,5 +39,6 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 ### SUB-ARRAY
 #### 题目列表
 |index|name|difficulty|
-|:-----|:---:|:-----:|
+|:--:|:--:|:--:|
 |485|[max-consecutive-ones](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0485-max-consecutive-ones.md)|easy|
+|1004|[max-consecutive-ones-iii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0485-max-consecutive-ones-iii.md)|medium|
