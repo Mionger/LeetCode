@@ -66,7 +66,7 @@ Space Complexity:O(n)
 时间复杂度方面beats 92.70%    
 
 MySolution:  
-Time Complexity:O(n^2)  
+Time Complexity:O(n)  
 Space Complexity:O(n)  
 时间复杂度方面beats 49.53%  
 
