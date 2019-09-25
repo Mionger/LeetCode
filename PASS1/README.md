@@ -42,4 +42,4 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |:--:|:--:|:--:|
 |485|[max-consecutive-ones](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0485-max-consecutive-ones.md)|easy|
 |1004|[max-consecutive-ones-iii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0485-max-consecutive-ones-iii.md)|medium|
-|0003|[max-consecutive-ones](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0003-longest-substring-without-repeating-characters.md)|medium|
+|0003|[longest-substring-without-repeating-characters](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0003-longest-substring-without-repeating-characters.md)|medium|
