@@ -42,9 +42,11 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |:--:|:--:|:--:|
 |485|[max-consecutive-ones](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0485-max-consecutive-ones.md)|easy|
 |1004|[max-consecutive-ones-iii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0485-max-consecutive-ones-iii.md)|medium|
-|0003|[longest-substring-without-repeating-characters](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0003-longest-substring-without-repeating-characters.md)|medium|
-|0209|[minimum-size-subarray-sum](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0209-minimum-size-subarray-sum.md)|medium|
-|0238|[product-of-array-except-self](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0238-product-of-array-except-self.md)|medium|
+|3|[longest-substring-without-repeating-characters](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0003-longest-substring-without-repeating-characters.md)|medium|
+|209|[minimum-size-subarray-sum](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0209-minimum-size-subarray-sum.md)|medium|
+|238|[product-of-array-except-self](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0238-product-of-array-except-self.md)|medium|
+|239|[sliding-window-maximum](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0239-sliding-window-maximum.md)|hard|
+|228|[summary-ranges](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0228-summary-ranges.md)|medium|
 ### MATH
 #### 题目列表
 |index|name|difficulty|
