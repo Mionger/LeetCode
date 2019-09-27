@@ -1,3 +1,21 @@
+- [BRFORE](#brfore)
+- [CONTENT](#content)
+  * [Array](#array)
+    + [K-SUM](#k-sum)
+      - [题型总结](#----)
+      - [题目列表](#----)
+    + [SECTION](#section)
+      - [题型总结](#-----1)
+      - [题目列表](#-----1)
+    + [SUB-ARRAY](#sub-array)
+      - [题型总结](#-----2)
+      - [题目列表](#-----2)
+    + [MATH](#math)
+      - [题目列表](#-----3)
+  * [Link-List](#link-list)
+    + [DELETE](#delete)
+      - [题目列表](#-----4)
+
 # BRFORE  
 算是被某厂校招的宣讲会打了鸡血，希望能坚持下来  
 
@@ -57,3 +75,11 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |index|name|difficulty|
 |:--:|:--:|:--:|
 |78|[subsets](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/math/0078-subsets.md)|medium|
+
+## Link-List  
+### DELETE  
+#### 题目列表
+|index|name|difficulty|
+|:--:|:--:|:--:|
+|19|[remove-nth-node-from-end-of-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/delete/0019-remove-nth-node-from-end-of-list.md)|medium|
+|82|[remove-duplicates-from-sorted-list-ii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/delete/0082-remove-duplicates-from-sorted-list-ii.md)|medium|
