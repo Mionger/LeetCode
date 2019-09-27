@@ -1,3 +1,4 @@
+# INDEX
 - [BRFORE](#brfore)
 - [CONTENT](#content)
   * [Array](#array)
@@ -16,7 +17,7 @@
     + [DELETE](#delete)
       - [题目列表](#%E9%A2%98%E7%9B%AE%E5%88%97%E8%A1%A8-4)
 
-# BRFORE  
+# BRFORE
 算是被某厂校招的宣讲会打了鸡血，希望能坚持下来  
 
 # CONTENT  
