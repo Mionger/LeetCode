@@ -12,9 +12,11 @@
       - [题型总结](#%E9%A2%98%E5%9E%8B%E6%80%BB%E7%BB%93-2)
       - [题目列表](#%E9%A2%98%E7%9B%AE%E5%88%97%E8%A1%A8-2)
     + [MATH](#math)
+      - [题型总结](#%E9%A2%98%E5%9E%8B%E6%80%BB%E7%BB%93-3)
       - [题目列表](#%E9%A2%98%E7%9B%AE%E5%88%97%E8%A1%A8-3)
   * [Link-List](#link-list)
     + [DELETE](#delete)
+      - [题型总结](#%E9%A2%98%E5%9E%8B%E6%80%BB%E7%BB%93-4)
       - [题目列表](#%E9%A2%98%E7%9B%AE%E5%88%97%E8%A1%A8-4)
 
 # BRFORE
@@ -72,6 +74,8 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |239|[sliding-window-maximum](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0239-sliding-window-maximum.md)|hard|
 |228|[summary-ranges](https://github.com/Mionger/LeetCode/blob/master/PASS1/Array/sub-array/0228-summary-ranges.md)|medium|
 ### MATH
+#### 题型总结
+暂无  
 #### 题目列表
 |index|name|difficulty|
 |:--:|:--:|:--:|
@@ -79,8 +83,21 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 
 ## Link-List  
 ### DELETE  
+#### 题型总结
+对于单向链表的删除问题，最主要的有以下两点:
+1. 判断链表是否结束
+2. 预留该节点的父节点，以便进行操作
+  
+因此这类问题一般采用双指针法，慢的指针通常指向被删除节点的父节点，但是双指针法尤其要注意对于循环不变式和链表是否结束的把握  
 #### 题目列表
 |index|name|difficulty|
 |:--:|:--:|:--:|
 |19|[remove-nth-node-from-end-of-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/delete/0019-remove-nth-node-from-end-of-list.md)|medium|
 |82|[remove-duplicates-from-sorted-list-ii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/delete/0082-remove-duplicates-from-sorted-list-ii.md)|medium|
+### REVERSE  
+#### 题型总结
+暂无
+#### 题目列表
+|index|name|difficulty|
+|:--:|:--:|:--:|
+|206|[reverse-linked-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/reverse/0206-reverse-linked-list.md)|easy|
