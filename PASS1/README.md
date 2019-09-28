@@ -104,3 +104,4 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |index|name|difficulty|
 |:--:|:--:|:--:|
 |206|[reverse-linked-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/reverse/0206-reverse-linked-list.md)|easy|
+|92|[reverse-linked-list-ii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/reverse/0092-reverse-linked-list-ii.md)|medium|
