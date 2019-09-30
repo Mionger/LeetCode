@@ -113,10 +113,13 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 
 ### MERGE  
 #### 题型总结
-暂无
+链表的合并和链表的反转类似，也只有两种思路来实现：迭代法和递归法。  
+迭代法是每次比较两个结点，把较小的加到结果链表中，并且这个指针向后移动；  
+递归法即每次比较两个链表的头部，将较小的头部单独取出来，剩下的两个部分继续递归。  
 #### 题目列表
 |index|name|difficulty|
 |:--:|:--:|:--:|
 |21|[merge-two-sorted-lists](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/merge/0021-merge-two-sorted-lists.md)|easy|
 |2|[add-two-numbers](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/merge/0002-add-two-numbers.md)|medium|
 |445|[add-two-numbers-ii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/merge/0445-add-two-numbers-ii.md)|medium|
+|23|[merge-k-sorted-lists]https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/merge/0023-merge-k-sorted-lists.md)|hard|
