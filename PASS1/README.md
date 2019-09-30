@@ -24,6 +24,9 @@
     + [MERGE](#merge)
       - [题型总结](#%E9%A2%98%E5%9E%8B%E6%80%BB%E7%BB%93-6)
       - [题目列表](#%E9%A2%98%E7%9B%AE%E5%88%97%E8%A1%A8-6)
+    + [CYCLE](#cycle)
+      - [题型总结](#%E9%A2%98%E5%9E%8B%E6%80%BB%E7%BB%93-7)
+      - [题目列表](#%E9%A2%98%E7%9B%AE%E5%88%97%E8%A1%A8-7)
 
 # BRFORE
 算是被某厂校招的宣讲会打了鸡血，希望能坚持下来  
@@ -122,4 +125,12 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |21|[merge-two-sorted-lists](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/merge/0021-merge-two-sorted-lists.md)|easy|
 |2|[add-two-numbers](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/merge/0002-add-two-numbers.md)|medium|
 |445|[add-two-numbers-ii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/merge/0445-add-two-numbers-ii.md)|medium|
-|23|[merge-k-sorted-lists]https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/merge/0023-merge-k-sorted-lists.md)|hard|
+|23|[merge-k-sorted-lists](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/merge/0023-merge-k-sorted-lists.md)|hard|
+
+### CYCLE  
+#### 题型总结
+暂无
+#### 题目列表
+|index|name|difficulty|
+|:--:|:--:|:--:|
+|141|[linked-list-cycle](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/cycle/0141-linked-list-cycle.md)|easy|
