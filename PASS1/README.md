@@ -129,8 +129,10 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 
 ### CYCLE  
 #### 题型总结
-暂无
+暂时发现的涉及到环形链表的题目只是判断，暂时还没有对这种特殊的链表数据结构的操作，因此只谈谈对环形链表判断的一点想法  
+环形链表的判断可以使用双指针法和字典法判断，相对而言字典法更为通用  
 #### 题目列表
 |index|name|difficulty|
 |:--:|:--:|:--:|
 |141|[linked-list-cycle](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/cycle/0141-linked-list-cycle.md)|easy|
+|142|[linked-list-cycle-ii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/cycle/0142-linked-list-cycle-ii.md)|medium|
