@@ -30,6 +30,9 @@
     + [SPLIT](#split)
       - [题型总结](#%E9%A2%98%E5%9E%8B%E6%80%BB%E7%BB%93-8)
       - [题目列表](#%E9%A2%98%E7%9B%AE%E5%88%97%E8%A1%A8-8)
+    + [SORT](#sort)
+      - [题型总结](#%E9%A2%98%E5%9E%8B%E6%80%BB%E7%BB%93-9)
+      - [题目列表](#%E9%A2%98%E7%9B%AE%E5%88%97%E8%A1%A8-9)
 
 # BRFORE
 算是被某厂校招的宣讲会打了鸡血，希望能坚持下来  
@@ -147,3 +150,12 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |index|name|difficulty|
 |:--:|:--:|:--:|
 |86|[partition-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/split/0086-partition-list.md)|medium|
+|725|[split-linked-list-in-parts](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/split/0725-split-linked-list-in-parts.md)|medium|
+
+### SORT  
+#### 题型总结
+暂无
+#### 题目列表
+|index|name|difficulty|
+|:--:|:--:|:--:|
+|148|[sort-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/sort/0148-sort-list.md)|medium|
