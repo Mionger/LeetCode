@@ -1,7 +1,7 @@
-# 0071.simplify-pathsimplify-path  
+# 0071.simplify-path
 
 ## 题目信息  
-Problem:[simplify-pathsimplify-path](https://leetcode.com/problems/simplify-pathsimplify-path/)  
+Problem:[simplify-path](https://leetcode.com/problems/simplify-path/)  
 Given an absolute path for a file (Unix-style), simplify it. Or in other words, convert it to the canonical path.  
 In a UNIX-style file system, a period . refers to the current directory. Furthermore, a double period .. moves the directory up a level.
 For more information, see: Absolute path vs relative path in Linux/Unix  
