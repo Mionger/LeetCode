@@ -156,8 +156,12 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 
 ### SORT  
 #### 题型总结
-暂无
+链表的排序和正常数组的排序相比，比较繁琐的地方就是没有可以直接操作的index  
+因此要通过指针找到待插入的位置，也正是这个操作可能会带来额外的时间复杂度  
+暂时也没有总结出来什么通解之类的思路  
 #### 题目列表
 |index|name|difficulty|
 |:--:|:--:|:--:|
 |148|[sort-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/sort/0148-sort-list.md)|medium|
+|143|[reorder-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/sort/0143-reorder-list.md)|medium|
+|147|[insertion-sort-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/sort/0147-insertion-sort-list.md)|medium|
