@@ -33,7 +33,11 @@
     + [SORT](#sort)
       - [题型总结](#%E9%A2%98%E5%9E%8B%E6%80%BB%E7%BB%93-9)
       - [题目列表](#%E9%A2%98%E7%9B%AE%E5%88%97%E8%A1%A8-9)
-
+  * [Stack](#stack)
+    + [CONCEPT](#concept)
+      - [题型总结](#%E9%A2%98%E5%9E%8B%E6%80%BB%E7%BB%93-10)
+      - [题目列表](#%E9%A2%98%E7%9B%AE%E5%88%97%E8%A1%A8-10)
+      
 # BRFORE
 算是被某厂校招的宣讲会打了鸡血，希望能坚持下来  
 
@@ -142,6 +146,7 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |:--:|:--:|:--:|
 |141|[linked-list-cycle](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/cycle/0141-linked-list-cycle.md)|easy|
 |142|[linked-list-cycle-ii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/cycle/0142-linked-list-cycle-ii.md)|medium|
+|160|[intersection-of-two-linked-lists](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/cycle/0160-intersection-of-two-linked-lists.md)|easy|
 
 ### SPILIT  
 #### 题型总结
@@ -165,3 +170,14 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |148|[sort-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/sort/0148-sort-list.md)|medium|
 |143|[reorder-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/sort/0143-reorder-list.md)|medium|
 |147|[insertion-sort-list](https://github.com/Mionger/LeetCode/blob/master/PASS1/Link-List/sort/0147-insertion-sort-list.md)|medium|
+
+## Stack  
+### CONCEPT
+#### 题型总结  
+栈最基本的应用，只要栈的基本概念就可以，不同题目背景可能会附带不同需要注意的细节  
+#### 题目列表
+|index|name|difficulty|
+|:--:|:--:|:--:|
+|20|[valid-parentheses](https://github.com/Mionger/LeetCode/blob/master/PASS1/Stack/concept/0020-valid-parentheses.md)|easy|
+|71|[simplify-path](https://github.com/Mionger/LeetCode/blob/master/PASS1/Stack/concept/0071-simplify-path.md)|medium|
+|150|[evaluate-reverse-polish-notation](https://github.com/Mionger/LeetCode/blob/master/PASS1/Stack/concept/0150-evaluate-reverse-polish-notation.md)|medium|
