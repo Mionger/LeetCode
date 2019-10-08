@@ -181,3 +181,5 @@ leetcode第一题two-sum就是这类问题，对于这类题目，首先看题�
 |20|[valid-parentheses](https://github.com/Mionger/LeetCode/blob/master/PASS1/Stack/concept/0020-valid-parentheses.md)|easy|
 |71|[simplify-path](https://github.com/Mionger/LeetCode/blob/master/PASS1/Stack/concept/0071-simplify-path.md)|medium|
 |150|[evaluate-reverse-polish-notation](https://github.com/Mionger/LeetCode/blob/master/PASS1/Stack/concept/0150-evaluate-reverse-polish-notation.md)|medium|
+|739|[daily-temperatures](https://github.com/Mionger/LeetCode/blob/master/PASS1/Stack/concept/0739-daily-temperatures.md)|medium|
+|503|[next-greater-element-ii](https://github.com/Mionger/LeetCode/blob/master/PASS1/Stack/concept/0503-next-greater-element-ii.md)|medium|
